@@ -21,3 +21,9 @@ Based on the given rubric for grading, the group assesed the system and it resul
 | Execution  | ✔  |   |   |   |
 | Originality  |  | ✔ |   |   |
 | Overall Impression    |  | ✔  |   |
+
+# Members 
+Lincallo, Eduardo Gabriel S.
+Rante, Harold M.                  
+Alog, Zyrus James             
+Garcia, Preben                      
