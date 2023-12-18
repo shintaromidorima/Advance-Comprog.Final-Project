@@ -22,8 +22,20 @@ Based on the given rubric for grading, the group assesed the system and it resul
 | Originality  |  | ✔ |   |   |
 | Overall Impression    |  | ✔  |   |
 
-# Members 
-Lincallo, Eduardo Gabriel S.
-Rante, Harold M.                  
-Alog, Zyrus James             
-Garcia, Preben                      
+# Members and their Contribution
+  Lincallo, Eduardo Gabriel S.  –  25%
+Rante, Harold M.                   –  25%
+Alog, Zyrus James                -   25%
+Garcia, Preben                       -  25%
+
+Lincallo, Eduardo Gabriel S. - 
+Responsible for the idea of this system. Contributed to the code.Also contributed on the assessment questions on different fields of health.
+
+Rante, Harold M. - 
+Responsible for code polishing, the structure of the system may be not like this if it is not because of him.
+
+Alog, Zyrus James - 
+Responsible for editing video presentation as well as incorporating the oop principles in the code.
+
+Garcia, Preben - 
+Responsible for researching for the video through youtube that been used in the program. Also contributed on the assessment questions on different fields of health.
