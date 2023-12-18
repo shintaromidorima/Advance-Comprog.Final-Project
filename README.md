@@ -9,35 +9,61 @@ This program is connected to SDG no.3 Goodhealth and Well-being because it asses
 
 # Screenshots of the Program
 The first part of the program which is the main menu
+
 ![Screenshots](Screenshots/1.jpg)
+
 After choosing what aspect of health the system will give a 10 question that the user will
 answer.
-2.
+
+2
+
 The program will also suggest an accessible video based on their score.
-3.
+
+3
+
 If you’re struggling in mental health, this is the recommended video
-4.
+
+4
+
 A fine mental health will also recommend a video on how to maintain it.
-5.
-6.
+
+5
+
+6
+
 After assesing a health aspect the program will ask to user to enter to go to the main
 menu and the program will ask the user again if he wants to assess another aspect of
 health.
+
 A fine mental health and the recommended video.
-7.
-8.
+
+7
+
+8
+
 A struggling physical health and the recommended video.
-9.
-10.
+
+9
+
+10
+
 A fine Nutrition and the recommended video.
-11.
-12.
+
+11
+
+12
+
 A struggling Nutrition and the recommended video.
-13.
-14.
+
+13
+
+14
+
+
 And if the user wants to end the program he can input 4 on the choice to end or exit the
 program.
-15.
+
+15
 
 # Overall Function of This Program
 
