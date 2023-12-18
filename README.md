@@ -9,7 +9,7 @@ This program is connected to SDG no.3 Goodhealth and Well-being because it asses
 
 # Screenshots of the Program
 The first part of the program which is the main menu
-1.
+![Screenshots](Screenshots/1.jpg)
 After choosing what aspect of health the system will give a 10 question that the user will
 answer.
 2.
