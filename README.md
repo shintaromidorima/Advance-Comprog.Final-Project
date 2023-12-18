@@ -21,11 +21,11 @@ The program will also suggest an accessible video based on their score.
 
 ![Screenshots](Screenshots/3.png)
 
-If you’re struggling in mental health, this is the recommended video
+If you’re struggling in Mental Health, this is the recommended video
 
 ![Screenshots](Screenshots/4.png)
 
-A fine mental health will also recommend a video on how to maintain it.
+A fine Mental Health will also recommend a video on how to maintain it.
 
 ![Screenshots](Screenshots/5.png)
 
@@ -35,13 +35,13 @@ After assesing a health aspect the program will ask to user to enter to go to th
 menu and the program will ask the user again if he wants to assess another aspect of
 health.
 
-A fine mental health and the recommended video.
+A fine Physical Health and the recommended video.
 
 ![Screenshots](Screenshots/7.png)
 
 ![Screenshots](Screenshots/8.png)
 
-A struggling physical health and the recommended video.
+A struggling Physical Health and the recommended video.
 
 ![Screenshots](Screenshots/9.png)
 
