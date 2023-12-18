@@ -23,9 +23,13 @@ Based on the given rubric for grading, the group assesed the system and it resul
 | Overall Impression    |  | ✔  |   |
 
 # Members and their Contribution
+
   Lincallo, Eduardo Gabriel S.  –  25%
+  
 Rante, Harold M.                   –  25%
+
 Alog, Zyrus James                -   25%
+
 Garcia, Preben                       -  25%
 
 Lincallo, Eduardo Gabriel S. - 
