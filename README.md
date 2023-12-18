@@ -15,21 +15,21 @@ The first part of the program which is the main menu
 After choosing what aspect of health the system will give a 10 question that the user will
 answer.
 
-2
+![Screenshots](Screenshots/2.png)
 
 The program will also suggest an accessible video based on their score.
 
-3
+![Screenshots](Screenshots/3.png)
 
 If you’re struggling in mental health, this is the recommended video
 
-4
+![Screenshots](Screenshots/4.png)
 
 A fine mental health will also recommend a video on how to maintain it.
 
-5
+![Screenshots](Screenshots/5.png)
 
-6
+![Screenshots](Screenshots/6.png)
 
 After assesing a health aspect the program will ask to user to enter to go to the main
 menu and the program will ask the user again if he wants to assess another aspect of
@@ -37,33 +37,33 @@ health.
 
 A fine mental health and the recommended video.
 
-7
+![Screenshots](Screenshots/7.png)
 
-8
+![Screenshots](Screenshots/8.png)
 
 A struggling physical health and the recommended video.
 
-9
+![Screenshots](Screenshots/9.png)
 
-10
+![Screenshots](Screenshots/10.png)
 
 A fine Nutrition and the recommended video.
 
-11
+![Screenshots](Screenshots/11.png)
 
-12
+![Screenshots](Screenshots/12.png)
 
 A struggling Nutrition and the recommended video.
 
-13
+![Screenshots](Screenshots/13.png)
 
-14
+![Screenshots](Screenshots/14.png)
 
 
 And if the user wants to end the program he can input 4 on the choice to end or exit the
 program.
 
-15
+![Screenshots](Screenshots/15.png)
 
 # Overall Function of This Program
 
